@@ -1,0 +1,26 @@
+*client
+	home
+	tra cứu
+	tìm kiếm
+	chi tiết sản phẩm
+	giỏ hàng
+	so sánh
+	đặt hàng
+*admin
+	laptop_type (add, edit, delete)
+	manufacturer (add, edit, delete)
+	laptop (add, edit, delete)
+	customer (edit, delete)
+	cart (view)
+	orderinfo (view, edit)
+	orderdetail (view)
+	review (view ,delete)
+	discount (add, edit, delete)
+
+	1 chờ xác nhận
+	2 xác nhận , đóng gói
+	3 đang vận chuyển
+	4 đang giao hàng
+	5 đã giao hàng
+
+	0 đơn hàng bị hủy

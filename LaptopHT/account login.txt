@@ -1,0 +1,9 @@
+customer:
+	fairy186
+	Huylatui12
+admin:
+	huy
+	admin
+
+	toan
+	admin
